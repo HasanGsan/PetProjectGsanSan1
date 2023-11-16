@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetProjectGsanSan</string>
+    <string name="android_name_container">com.example.MainActivity</string>
+</resources>
